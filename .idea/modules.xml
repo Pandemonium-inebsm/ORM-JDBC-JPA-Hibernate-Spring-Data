@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ORM-JDBC-JPA-Hibernate-Spring-Data.iml" filepath="$PROJECT_DIR$/.idea/ORM-JDBC-JPA-Hibernate-Spring-Data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_H2/Spring_H2.iml" filepath="$PROJECT_DIR$/Spring_H2/Spring_H2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_MySQL/Spring_MySQL.iml" filepath="$PROJECT_DIR$/Spring_MySQL/Spring_MySQL.iml" />
+    </modules>
+  </component>
+</project>
